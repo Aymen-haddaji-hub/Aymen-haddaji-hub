@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Aymen-haddaji-hub/Aymen-haddaji-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on curriculum Linux System Programmation & Blockchain @Holbertonschool.
 - 🌱 I’m currently learning Advanced and complex Algorithms.
