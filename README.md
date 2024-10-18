@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on curriculum Linux System Programmation & Blockchain @Holbertonschool.
+- 🔭 I’m currently working blockchain engineer @ wyplay.
 - 🌱 I’m currently learning Advanced and complex Algorithms.
 - 👯 I’m looking to collaborate on any project.
 - 🤔 I’m looking for help with Hyperledger framework.
